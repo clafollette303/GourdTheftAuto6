@@ -2,4 +2,4 @@ This is a group project developed as the final project for Intro to Computer Sci
 
 For a video demonstration of this project, you can click the image below:
 
-[![ProjectDemonstration](https://img.youtube.com/vi/9NRhuZEZa0Q/1.jpg)](https://www.youtube.com/watch?v=9NRhuZEZa0Q)
+[![ProjectDemonstration](https://img.youtube.com/vi/9NRhuZEZa0Q/2.jpg)](https://www.youtube.com/watch?v=9NRhuZEZa0Q)
