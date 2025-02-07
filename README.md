@@ -1,4 +1,4 @@
-## This is a group project developed as the final project for Intro to Computer Science II.
+## This is a project I developed as part of a group for my Intro to CS II course.
 
 ## For a video demonstration of this project, you can click the image below:
 
